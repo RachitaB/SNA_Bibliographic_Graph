@@ -4,7 +4,7 @@
 This analysis focuses on visualizing a bibliographic graph that represents the relationships between papers, authors, and citations in a heterogeneous network. By considering different types of nodes and edges, we constructed a comprehensive network and used visualization tools to display it. This visualization provides insights into the connections and structure of the academic domain, helping identify thematic clusters and patterns in the field of study.
 
 ## Dataset
-The dataset used for this analysis is "IEEE_Final.csv" obtained from Kaggle.
+The dataset used for this analysis is "IEEE_Finale_Data.csv" obtained from Kaggle.
 
 ## Methodology
 #### Plotting Bibliographic Graph
